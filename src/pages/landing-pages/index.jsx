@@ -10,6 +10,8 @@ import shield from "../..//assets/icon/shield.png"
 import rocked from "../..//assets/icon/rocked.png"
 import { Button } from "@mui/material"
 
+// haiiii
+
 const Landingspages = () => {
     return <Layout>
         <div className="bg-red-100 w-full min-h-[600px] flex flex-col">
